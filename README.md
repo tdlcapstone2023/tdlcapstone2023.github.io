@@ -7,9 +7,6 @@ Token Dynamics Labs (New Sponsor)
 #### Partner Companies
 Estee Lauder Company, Nakji
 
-
-
-
 #### Project Introduction
 We are a newly emerging company focusing on analytics for Web3. Conceived and started by Ari Lightman, Professor at Heinz :-). The company consists of Terry Boyd, Heinz graduate, and Kiran Rao, CMU graduate as well as board members Tom Pageler, CEO Prime Trust, Bob Schukai, EVP, Mastercard and Jane Schactel, formers head of consulting advertising ecosystem at Meta
 
@@ -47,13 +44,13 @@ Some useful documents
 - Michael Affare; Stakeholder Management/Information Liaison -->
 
 
-| Sponsor      | Type of pet | Favority activity 1 | FA 2   | FA 3            | FA 4                                |
-|--------------|-------------|---------------------|--------|-----------------|-------------------------------------|
-| TDL          | Ruchi Bhatia ; Product Manager         | Sleeping            | Eating | Being pet       | Plotting to overthow dog empire     |
-| Howard       | Yirun Wang (Eva); Assistant Product Manager         | You                 | You    | You             | Eating                              |
-| Frankenstein | Yuanmo Zhu (Caroline); Project Secretary/Quality Assurance        | Swimming            | Eating | Blowing bubbles | Forgetting                          |
-| Frankenstein | Suet Ching Cheuk (Christy); Financial Secretary       | Swimming            | Eating | Blowing bubbles | Forgetting                          |
-| Frankenstein | Michael Affare; Stakeholder Management/Information Liaison        | Swimming            | Eating | Blowing bubbles | Forgetting                          |
+| Sponsor      | Team Members | Partner Companies | Resource Persons  | Technologies           | 
+|--------------|-------------|---------------------|--------|-----------------|
+| Token Dynamics Lab          | Ruchi Bhatia ; Product Manager         | Estee Lauder            | Samuel Perl | Python       | 
+|        | Yirun Wang (Eva); Assistant Product Manager         | Nakji                 | Derrick Spooner    | MongoDB             | 
+|  | Yuanmo Zhu (Caroline); Project Secretary/Quality Assurance        | Nick            | Neo4j | Blowing bubbles | 
+|  | Suet Ching Cheuk (Christy); Financial Secretary       |             | Google Cloud SQL (MySQL) | Blowing bubbles | 
+|  | Michael Affare; Stakeholder Management/Information Liaison        |             | Linux, Github, tmux | Blowing bubbles | 
 
 <!-- 
 # About me
