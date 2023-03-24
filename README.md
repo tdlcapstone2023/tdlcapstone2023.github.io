@@ -49,7 +49,7 @@ Files and Documents
 |        | Yirun Wang (Eva), Assistant Product Manager         | Nakji                 |   Samuel Perl, Advisor  | MongoDB             | 
 |  | Yuanmo Zhu (Caroline), Project Secretary/Quality Assurance        |             | Derrick Spooner | Neo4j | 
 |  | Suet Ching Cheuk (Christy), Financial Secretary       |             | Nick Kharas  | Google Cloud SQL (MySQL)| 
-|  | Michael Affare, Stakeholder Management       |             |  | Linux, Github, tmux | 
+|  | [Michael Affare](https://www.linkedin.com/in/michaelaffare/){:target="_blank" rel="noopener"}, Stakeholder Management       |             |  | Linux, Github, tmux | 
 
 <!-- 
 # About me
