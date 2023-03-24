@@ -48,9 +48,9 @@ Some useful documents
 |--------------|-------------|---------------------|--------|-----------------|
 | Token Dynamics Lab          | Ruchi Bhatia ; Product Manager         | Estee Lauder            | Samuel Perl | Python       | 
 |        | Yirun Wang (Eva); Assistant Product Manager         | Nakji                 | Derrick Spooner    | MongoDB             | 
-|  | Yuanmo Zhu (Caroline); Project Secretary/Quality Assurance        | Nick            | Neo4j | Blowing bubbles | 
-|  | Suet Ching Cheuk (Christy); Financial Secretary       |             | Google Cloud SQL (MySQL) | Blowing bubbles | 
-|  | Michael Affare; Stakeholder Management/Information Liaison        |             | Linux, Github, tmux | Blowing bubbles | 
+|  | Yuanmo Zhu (Caroline); Project Secretary/Quality Assurance        |             | Nick Kharas | Neo4j | 
+|  | Suet Ching Cheuk (Christy); Financial Secretary       |             |  | Google Cloud SQL (MySQL)| 
+|  | Michael Affare; Stakeholder Management/Information Liaison        |             |  | Linux, Github, tmux | 
 
 <!-- 
 # About me
