@@ -22,7 +22,10 @@ Develop models to visually explores clusters of Web3 offerings in this case NFTs
 # Resources
 Some useful documents
 - [Project Brief: Token Dynamics Labs](docs/token-dynamics-labs.pdf){:target="_blank" rel="noopener"}
-- [Capstone Project Guidelines](Sdocs/23-Capstone-Handbook-2022-2023.pdf){:target="_blank" rel="noopener"}
+- [Capstone Project Guidelines](docs/23-Capstone-Handbook-2022-2023.pdf){:target="_blank" rel="noopener"}
+- [Midterm Presentation: Project Intro and plan](https://docs.google.com/presentation/d/1SNBDCgZWd3klnU6JdneC_vVuNNkvlXnU-oQ2_BjyA0c/edit?usp=sharing){:target="_blank" rel="noopener"}
+
+
 
 # Project Plan
 - [x] Sprint 1: Scoping, Research and Requirements Specification
@@ -53,7 +56,7 @@ Some useful documents
 |        | Yirun Wang (Eva), Assistant Product Manager         | Nakji                 |   Samuel Perl, Advisor  | MongoDB             | 
 |  | Yuanmo Zhu (Caroline), Project Secretary/Quality Assurance        |             | Derrick Spooner | Neo4j | 
 |  | Suet Ching Cheuk (Christy), Financial Secretary       |             | Nick Kharas  | Google Cloud SQL (MySQL)| 
-|  | Michael Affare, Stakeholder Management/Information Liaison        |             |  | Linux, Github, tmux | 
+|  | Michael Affare, Stakeholder Management       |             |  | Linux, Github, tmux | 
 
 <!-- 
 # About me
