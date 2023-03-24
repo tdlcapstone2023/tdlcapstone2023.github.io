@@ -49,7 +49,7 @@ Files and Documents
 | Token Dynamics Lab          | [Ruchi Bhatia](https://www.linkedin.com/in/ruchi798/){:target="_blank" rel="noopener"}, Product Manager         | Estee Lauder            |  [Ari Lightman](https://www.linkedin.com/in/arilightman/){:target="_blank" rel="noopener"}, Sponsor | Python       | 
 |        | [Yirun (Eva) Wang](https://www.linkedin.com/in/yirunwangcmu/){:target="_blank" rel="noopener"}, Assistant Product Manager         | Nakji                 |   [Samuel Perl](https://www.linkedin.com/in/sam-perl-601bb2/){:target="_blank" rel="noopener"}, Advisor  | MongoDB             | 
 |  | [Yuanmo(Caroline) Zhu ](https://www.linkedin.com/in/yuanmo-caroline-zhu-18428818a/?originalSubdomain=cn){:target="_blank" rel="noopener"}, Project Secretary/Quality Assurance        |             | [Derrick Spooner](https://www.linkedin.com/in/sam-perl-601bb2/){:target="_blank" rel="noopener"}, NoSQL consultant | Neo4j | 
-|  | [Suet (Christy) Ching Cheuk](https://www.linkedin.com/in/michaelaffare/){:target="_blank" rel="noopener"}, Financial Secretary       |             | [Nick Kharas](https://www.linkedin.com/in/nickkharas/){:target="_blank" rel="noopener"},blockchain API consultant  | Google Cloud SQL (MySQL)| 
+|  | [Suet (Christy) Ching Cheuk](https://www.linkedin.com/in/christy-cheuk-6b4405149/){:target="_blank" rel="noopener"}, Financial Secretary       |             | [Nick Kharas](https://www.linkedin.com/in/nickkharas/){:target="_blank" rel="noopener"},blockchain API consultant  | Google Cloud SQL (MySQL)| 
 |  | [Michael Affare](https://www.linkedin.com/in/michaelaffare/){:target="_blank" rel="noopener"}, Stakeholder Management       |             |  | Linux, Github, tmux | 
 
 
