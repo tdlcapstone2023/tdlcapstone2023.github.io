@@ -1,6 +1,6 @@
 # Web3 visualisation models
 
-| [home page]() | [S1L Scope, Research, Requirements]() | [Solution Design]() | [Data Engineering]() | [Data Visualisation]() | [Files]() |
+| [home page]() | [Scope, Research, Requirements](pages/scope_and_requirements) | [Solution Design](pages/solution_design.md) | [Data Engineering](pages/data_engineering.md) | [Data Visualisation](pages/data_visualisation.md) | [Files](pages/files.md) |
 
 #### Project Introduction
 We are a newly emerging company focusing on analytics for Web3. Conceived and started by Ari Lightman, Professor at Heinz :-). The company consists of Terry Boyd, Heinz graduate, and Kiran Rao, CMU graduate as well as board members Tom Pageler, CEO Prime Trust, Bob Schukai, EVP, Mastercard and Jane Schactel, formers head of consulting advertising ecosystem at Meta
@@ -50,6 +50,7 @@ Files and Documents
 |  | [Yuanmo(Caroline) Zhu ](https://www.linkedin.com/in/yuanmo-caroline-zhu-18428818a/?originalSubdomain=cn){:target="_blank" rel="noopener"}, Project Secretary/Quality Assurance        |             | [Derrick Spooner](https://www.linkedin.com/in/sam-perl-601bb2/){:target="_blank" rel="noopener"}, NoSQL consultant | Neo4j | 
 |  | Suet (Christy) Ching Cheuk , Financial Secretary       |             | [Nick Kharas](https://www.linkedin.com/in/nickkharas/){:target="_blank" rel="noopener"},blockchain API consultant  | Google Cloud SQL (MySQL)| 
 |  | [Michael Affare](https://www.linkedin.com/in/michaelaffare/){:target="_blank" rel="noopener"}, Stakeholder Management       |             |  | Linux, Github, tmux | 
+
 
 <!-- 
 # About me
