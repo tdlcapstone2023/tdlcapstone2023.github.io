@@ -1,12 +1,5 @@
 # tdlcapstone 2023
 
-#### Parent Company - Official Name:
-Token Dynamics Labs (New Sponsor)
-- Ari Lightman
-
-#### Partner Companies
-Estee Lauder Company, Nakji
-
 #### Project Introduction
 We are a newly emerging company focusing on analytics for Web3. Conceived and started by Ari Lightman, Professor at Heinz :-). The company consists of Terry Boyd, Heinz graduate, and Kiran Rao, CMU graduate as well as board members Tom Pageler, CEO Prime Trust, Bob Schukai, EVP, Mastercard and Jane Schactel, formers head of consulting advertising ecosystem at Meta
 
