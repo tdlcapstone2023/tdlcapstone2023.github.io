@@ -12,11 +12,17 @@ Develop models to visually explores clusters of Web3 offerings in this case NFTs
 <img src="img/neo4j_graphdb.jpg" alt="funny dog picture" width="800" height="500">
 
 
-# Resources
-Some useful documents
+# Highlighted Resources
+Some useful documents. 
+
+Project Brief
 - [Project Brief: Token Dynamics Labs](docs/token-dynamics-labs.pdf){:target="_blank" rel="noopener"}
 - [Capstone Project Guidelines](docs/23-Capstone-Handbook-2022-2023.pdf){:target="_blank" rel="noopener"}
+
+Presentations
 - [Midterm Presentation: Project Intro and plan](https://docs.google.com/presentation/d/1SNBDCgZWd3klnU6JdneC_vVuNNkvlXnU-oQ2_BjyA0c/edit?usp=sharing){:target="_blank" rel="noopener"}
+
+Files and Documents
 
 
 
@@ -24,20 +30,12 @@ Some useful documents
 - [x] Sprint 1: Scoping, Research and Requirements Specification
 - [x] Sprint 2: Solution Design, Unit Testing
 - [x] Sprint 3: Prototyping 
-- [ ] Sprint 4: Debugging and Improvement
+- [ ] **Sprint 4: Debugging and Improvement**
 - [ ] Sprint 5: Product Deployment, Documentation
 - [ ] Sprint 6: Partner Test Demo, Stakeholder alignment, Product Owner Review
 
 
-<!-- #### Project Advisor
-- Samuel Perl
 
-#### Project team
-- Ruchi Bhatia ; Product Manager
-- Yirun Wang (Eva); Assistant Product Manager
-- Yuanmo Zhu (Caroline); Project Secretary/Quality Assurance
-- Suet Ching Cheuk (Christy); Financial Secretary
-- Michael Affare; Stakeholder Management/Information Liaison -->
 
 
 # Stakeholders
@@ -69,6 +67,17 @@ or...
 - List item #3
 
 # Portfolio
+
+ #### Project Advisor
+- Samuel Perl
+
+#### Project team
+- Ruchi Bhatia ; Product Manager
+- Yirun Wang (Eva); Assistant Product Manager
+- Yuanmo Zhu (Caroline); Project Secretary/Quality Assurance
+- Suet Ching Cheuk (Christy); Financial Secretary
+- Michael Affare; Stakeholder Management/Information Liaison 
+
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
