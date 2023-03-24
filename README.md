@@ -1,13 +1,22 @@
 # tdlcapstone 2023
 
 #### Parent Company - Official Name:
-Token Dynamics Labs
+Token Dynamics Labs (New Sponsor)
+- Ari Lightman
 
-#### New Sponsor
+#### Partner Companies
+Estee Lauder Company, Nakji
 
-#### Company Address
-2796 Fernwald Rd
-Pittsburgh, PA 15317
+#### Project Advisor
+- Samuel Perl
+
+#### Project team
+- Ruchi Bhatia ; Product Manager
+- Yirun Wang (Eva); Assistant Product Manager
+- Yuanmo Zhu (Caroline); Project Secretary/Quality Assurance
+- Suet Ching Cheuk (Christy); Financial Secretary
+- Michael Affare; Stakeholder Management/Information Liaison
+
 
 #### Project Introduction
 We are a newly emerging company focusing on analytics for Web3. Conceived and started by Ari Lightman, Professor at Heinz :-). The company consists of Terry Boyd, Heinz graduate, and Kiran Rao, CMU graduate as well as board members Tom Pageler, CEO Prime Trust, Bob Schukai, EVP, Mastercard and Jane Schactel, formers head of consulting advertising ecosystem at Meta
@@ -20,8 +29,8 @@ Develop models to visually explores clusters of Web3 offerings in this case NFTs
 
 # Resources
 Some useful documents
-- [Project Brief: Token Dynamics Labs](token-dynamics-labs.pdf){:target="_blank" rel="noopener"}
-- [Capstone Project Guidelines](S23-Capstone-Handbook-2022-2023.pdf){:target="_blank" rel="noopener"}
+- [Project Brief: Token Dynamics Labs](docs/token-dynamics-labs.pdf){:target="_blank" rel="noopener"}
+- [Capstone Project Guidelines](Sdocs/23-Capstone-Handbook-2022-2023.pdf){:target="_blank" rel="noopener"}
 
 # Project Plan
 - [x] Sprint 1: Scoping, Research and Requirements Specification
