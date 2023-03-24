@@ -46,9 +46,9 @@ Files and Documents
 | Sponsor      | Team Members | Partner Companies | Resource Persons  | Technologies           | 
 |--------------|-------------|---------------------|--------|-----------------|
 | Token Dynamics Lab          | [Ruchi Bhatia](https://www.linkedin.com/in/ruchi798/){:target="_blank" rel="noopener"}, Product Manager         | Estee Lauder            |  Ari Lightman, Sponsor | Python       | 
-|        | Yirun Wang (Eva), Assistant Product Manager         | Nakji                 |   Samuel Perl, Advisor  | MongoDB             | 
-|  | Yuanmo Zhu (Caroline), Project Secretary/Quality Assurance        |             | Derrick Spooner | Neo4j | 
-|  | Suet Ching Cheuk (Christy), Financial Secretary       |             | Nick Kharas  | Google Cloud SQL (MySQL)| 
+|        | [Yirun (Eva) Wang](https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=false&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAADnFpVQBbyGO4vYCrSjSVYtPfXehWga-hPc&keywords=yirun%20wang&origin=RICH_QUERY_SUGGESTION&position=0&searchId=2666fdc5-60f5-4e66-90c9-0b18e4800255&sid=9Gn){:target="_blank" rel="noopener"}, Assistant Product Manager         | Nakji                 |   Samuel Perl, Advisor  | MongoDB             | 
+|  | [Yuanmo(Caroline) Zhu ](https://www.linkedin.com/in/yuanmo-caroline-zhu-18428818a/?originalSubdomain=cn){:target="_blank" rel="noopener"}, Project Secretary/Quality Assurance        |             | Derrick Spooner | Neo4j | 
+|  | Suet (Christy) Ching Cheuk , Financial Secretary       |             | Nick Kharas  | Google Cloud SQL (MySQL)| 
 |  | [Michael Affare](https://www.linkedin.com/in/michaelaffare/){:target="_blank" rel="noopener"}, Stakeholder Management       |             |  | Linux, Github, tmux | 
 
 <!-- 
