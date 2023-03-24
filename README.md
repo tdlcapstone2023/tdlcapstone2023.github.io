@@ -1,12 +1,30 @@
-# TSWD-portfolio-templates
-Portfolio templates for setting up your Telling Stories with Data site.  Edit these pages as you like for your own portfolio!  
-Sometimes it's helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
+# tdlcapstone 2023
 
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
+#### Parent Company - Official Name:
+Token Dynamics Labs
 
-# Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+#### New Sponsor
+
+#### Company Address
+2796 Fernwald Rd
+Pittsburgh, PA 15317
+
+#### Project Introduction
+We are a newly emerging company focusing on analytics for Web3. Conceived and started by Ari Lightman, Professor at Heinz :-). The company consists of Terry Boyd, Heinz graduate, and Kiran Rao, CMU graduate as well as board members Tom Pageler, CEO Prime Trust, Bob Schukai, EVP, Mastercard and Jane Schactel, formers head of consulting advertising ecosystem at Meta
+
+#### The capstone problem
+Web3, tokenized goods and services, contain a variety of data associated with the offering including attributes. These are available on the blockchain and can be collected, organized and used as associations to determine clusters of similar Web 3 offerings. Similar to
+
+#### Objectives of the project:
+Develop models to visually explores clusters of Web3 offerings in this case NFTs. We will use a data broker developed by CMU alums to provide the data and attributes. The CMU team will use tools like Bloom - neo 4j to develop an interactive and visual graph vie of similar NFTs
+
+# Resources
+Some useful documents
+[Project Brief: Token Dynamics Labs]("S23-Capstone-Handbook-2022-2023.pdf"){target="_blank"}
+[Capstone Project Guidelines]("S23-Capstone-Handbook-2022-2023.pdf"){target="_blank"}
+
+#
+
 
 # About me
 Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
