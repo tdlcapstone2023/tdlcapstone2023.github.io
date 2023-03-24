@@ -49,10 +49,10 @@ Some useful documents
 
 | Sponsor      | Team Members | Partner Companies | Resource Persons  | Technologies           | 
 |--------------|-------------|---------------------|--------|-----------------|
-| Token Dynamics Lab          | Ruchi Bhatia, Product Manager         | Estee Lauder            | Samuel Perl | Python       | 
-|        | Yirun Wang (Eva), Assistant Product Manager         | Nakji                 | Derrick Spooner    | MongoDB             | 
-|  | Yuanmo Zhu (Caroline), Project Secretary/Quality Assurance        |             | Nick Kharas | Neo4j | 
-|  | Suet Ching Cheuk (Christy), Financial Secretary       |             |  | Google Cloud SQL (MySQL)| 
+| Token Dynamics Lab          | Ruchi Bhatia, Product Manager         | Estee Lauder            |  Ari Lightman, Sponsor | Python       | 
+|        | Yirun Wang (Eva), Assistant Product Manager         | Nakji                 |   Samuel Perl, Advisor  | MongoDB             | 
+|  | Yuanmo Zhu (Caroline), Project Secretary/Quality Assurance        |             | Derrick Spooner | Neo4j | 
+|  | Suet Ching Cheuk (Christy), Financial Secretary       |             | Nick Kharas  | Google Cloud SQL (MySQL)| 
 |  | Michael Affare, Stakeholder Management/Information Liaison        |             |  | Linux, Github, tmux | 
 
 <!-- 
