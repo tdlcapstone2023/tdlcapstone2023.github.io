@@ -20,7 +20,7 @@ Develop models to visually explores clusters of Web3 offerings in this case NFTs
 
 # Resources
 Some useful documents
-- [Project Brief: Token Dynamics Labs](S23-Capstone-Handbook-2022-2023.pdf){:target="_blank" rel="noopener"}
+- [Project Brief: Token Dynamics Labs](token-dynamics-labs.pdf){:target="_blank" rel="noopener"}
 - [Capstone Project Guidelines](S23-Capstone-Handbook-2022-2023.pdf){:target="_blank" rel="noopener"}
 
 # Project Plan
