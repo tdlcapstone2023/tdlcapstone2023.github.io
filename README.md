@@ -27,6 +27,9 @@ Web3, tokenized goods and services, contain a variety of data associated with th
 #### Objectives of the project:
 Develop models to visually explores clusters of Web3 offerings in this case NFTs. We will use a data broker developed by CMU alums to provide the data and attributes. The CMU team will use tools like Bloom - neo 4j to develop an interactive and visual graph vie of similar NFTs
 
+<img src="img/neo4j_graphdb.jpg" alt="funny dog picture" width="500" height="300">
+
+
 # Resources
 Some useful documents
 - [Project Brief: Token Dynamics Labs](docs/token-dynamics-labs.pdf){:target="_blank" rel="noopener"}
