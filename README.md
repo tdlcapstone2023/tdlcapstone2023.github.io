@@ -45,7 +45,7 @@ Files and Documents
 
 | Sponsor      | Team Members | Partner Companies | Resource Persons  | Technologies           | 
 |--------------|-------------|---------------------|--------|-----------------|
-| Token Dynamics Lab          | [Ruchi Bhatia](https://www.linkedin.com/in/ruchi798/){:target="_blank" rel="noopener"}, Product Manager         | Estee Lauder            |  Ari Lightman, Sponsor | Python       | 
+| Token Dynamics Lab          | [Ruchi Bhatia](https://www.linkedin.com/in/ruchi798/){:target="_blank" rel="noopener"}, Product Manager         | Estee Lauder            |  [Ari Lightman](https://www.linkedin.com/in/arilightman/){:target="_blank" rel="noopener"}, Sponsor | Python       | 
 |        | [Yirun (Eva) Wang](https://www.linkedin.com/in/yirunwangcmu/){:target="_blank" rel="noopener"}, Assistant Product Manager         | Nakji                 |   Samuel Perl, Advisor  | MongoDB             | 
 |  | [Yuanmo(Caroline) Zhu ](https://www.linkedin.com/in/yuanmo-caroline-zhu-18428818a/?originalSubdomain=cn){:target="_blank" rel="noopener"}, Project Secretary/Quality Assurance        |             | Derrick Spooner | Neo4j | 
 |  | Suet (Christy) Ching Cheuk , Financial Secretary       |             | Nick Kharas  | Google Cloud SQL (MySQL)| 
