@@ -7,15 +7,7 @@ Token Dynamics Labs (New Sponsor)
 #### Partner Companies
 Estee Lauder Company, Nakji
 
-#### Project Advisor
-- Samuel Perl
 
-#### Project team
-- Ruchi Bhatia ; Product Manager
-- Yirun Wang (Eva); Assistant Product Manager
-- Yuanmo Zhu (Caroline); Project Secretary/Quality Assurance
-- Suet Ching Cheuk (Christy); Financial Secretary
-- Michael Affare; Stakeholder Management/Information Liaison
 
 
 #### Project Introduction
@@ -43,6 +35,25 @@ Some useful documents
 - [ ] Sprint 5: Product Deployment, Documentation
 - [ ] Sprint 6: Partner Test Demo, Stakeholder alignment, Product Owner Review
 
+
+<!-- #### Project Advisor
+- Samuel Perl
+
+#### Project team
+- Ruchi Bhatia ; Product Manager
+- Yirun Wang (Eva); Assistant Product Manager
+- Yuanmo Zhu (Caroline); Project Secretary/Quality Assurance
+- Suet Ching Cheuk (Christy); Financial Secretary
+- Michael Affare; Stakeholder Management/Information Liaison -->
+
+
+| Sponsor      | Type of pet | Favority activity 1 | FA 2   | FA 3            | FA 4                                |
+|--------------|-------------|---------------------|--------|-----------------|-------------------------------------|
+| TDL          | Ruchi Bhatia ; Product Manager         | Sleeping            | Eating | Being pet       | Plotting to overthow dog empire     |
+| Howard       | Yirun Wang (Eva); Assistant Product Manager         | You                 | You    | You             | Eating                              |
+| Frankenstein | Yuanmo Zhu (Caroline); Project Secretary/Quality Assurance        | Swimming            | Eating | Blowing bubbles | Forgetting                          |
+| Frankenstein | Suet Ching Cheuk (Christy); Financial Secretary       | Swimming            | Eating | Blowing bubbles | Forgetting                          |
+| Frankenstein | Michael Affare; Stakeholder Management/Information Liaison        | Swimming            | Eating | Blowing bubbles | Forgetting                          |
 
 <!-- 
 # About me
