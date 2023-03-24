@@ -32,7 +32,7 @@ Some useful documents
 - [ ] Sprint 6: Partner Test Demo, Stakeholder alignment, Product Owner Review
 
 
-
+<!-- 
 # About me
 Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
 
@@ -64,7 +64,7 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 Here it might be helpful to include a high-level description of your final project. 
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
-Part III(final-project-part-three)
+Part III(final-project-part-three) -->
 
 
 
