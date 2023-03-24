@@ -20,8 +20,8 @@ Develop models to visually explores clusters of Web3 offerings in this case NFTs
 
 # Resources
 Some useful documents
-- [Project Brief: Token Dynamics Labs]("S23-Capstone-Handbook-2022-2023.pdf"){target="_blank"}
-- [Capstone Project Guidelines]("S23-Capstone-Handbook-2022-2023.pdf"){target="_blank"}
+- [Project Brief: Token Dynamics Labs](S23-Capstone-Handbook-2022-2023.pdf){target="_blank"}
+- [Capstone Project Guidelines](S23-Capstone-Handbook-2022-2023.pdf){target="_blank"}
 
 # Project Plan
 - [x] Sprint 1: Scoping, Research and Requirements Specification
@@ -31,7 +31,7 @@ Some useful documents
 - [ ] Sprint 5: Product Deployment, Documentation
 - [ ] Sprint 6: Partner Test Demo, Stakeholder alignment, Product Owner Review
 
-s
+
 
 # About me
 Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
