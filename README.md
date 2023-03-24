@@ -1,4 +1,5 @@
 # tdlcapstone 2023: Web3 visualisation models
+| [home page]() | [S1L Scope, Research, Requirements]() | [Solution Design]() | [Data Engineering]() | [Data Visualisation]() | [Files]() |
 
 #### Project Introduction
 We are a newly emerging company focusing on analytics for Web3. Conceived and started by Ari Lightman, Professor at Heinz :-). The company consists of Terry Boyd, Heinz graduate, and Kiran Rao, CMU graduate as well as board members Tom Pageler, CEO Prime Trust, Bob Schukai, EVP, Mastercard and Jane Schactel, formers head of consulting advertising ecosystem at Meta
